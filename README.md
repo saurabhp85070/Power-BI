@@ -16,3 +16,4 @@ This repository contains a collection of interactive Power BI dashboards develop
 
 Each dashboard is provided in both `.pbix` (Power BI project file) and `.pdf` (static report format):
 
+**NOTE:** I don't have paid version of Power BI so I cannot share its link. If you want to see dashboard you can download file or you can see static form of dashboard from `.pdf` file that I provided with `.pbix` file.
